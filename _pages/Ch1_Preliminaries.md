@@ -1,7 +1,7 @@
 ---
 title: Preliminaries and Fundamentals
 author: Usman
-date: 2022-02-04
+date: 2022-02-06
 category: Jekyll
 layout: post
 ---
