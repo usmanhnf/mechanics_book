@@ -1,20 +1,16 @@
 ---
-title: Preliminaries and Fundamentals
+title: Simple Stress
 author: usmanhnf
-date: 2023-03-22
+date: 2023-03-23
 layout: post
 ---
 
 
 
 
-Fundamental Definitions
--------------
 
-----
-This chapter gives a brief overview of the basic concepts to set the course for studying Mechanics of Solids course. We start by refreshing our minds with some fundamental definitions.
 
-#### Mechanics
+#### Simple Stress
 
 Mechanics is the study of the behavior of bodies subject to forces and displacements (and, to some extent, heating and cooling). Solid Mechanics (or Mechanics of Solids) deals specifically with “solid bodies”.
 
